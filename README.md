@@ -1,2 +1,2 @@
-# arqueiro-pico
+# Arqueiro-Epico
 versão sem braço
